@@ -71,19 +71,8 @@ This project transforms raw transactional data into meaningful insights using Po
 * Filter by Gender / Age Group
 ## 🖼️ Dashboard Preview
 
-* Overview
+
 <img width="1447" height="811" alt="Overview" src="https://github.com/user-attachments/assets/7e5e5929-5467-490e-9a7a-78fd76cf1f7c" />
-
-
-* Sales Performance
-  
-<img width="1454" height="803" alt="Sales Performance" src="https://github.com/user-attachments/assets/34a91769-e72f-4cc3-a994-68ff667f6c2a" />
-
-* Customer Insights
-
-<img width="1456" height="807" alt="Customer Insights" src="https://github.com/user-attachments/assets/0f82a7f5-ae61-4ea5-a934-de4f0ee04560" />
-
-
 
   
 ## 🚀 How to Use the Dashboard
